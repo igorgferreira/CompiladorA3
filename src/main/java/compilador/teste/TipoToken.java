@@ -1,4 +1,4 @@
-package claude.teste;
+package compilador.teste;
 
 // TipoToken é nosso enum para todos os tipos de tokens
 public enum TipoToken {

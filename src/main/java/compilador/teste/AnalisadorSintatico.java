@@ -1,5 +1,5 @@
 // Arquivo: src/main/java/claude/teste/AnalisadorSintatico.java
-package claude.teste;
+package compilador.teste;
 
 import java.util.HashSet;
 import java.util.Set;

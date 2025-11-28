@@ -1,4 +1,4 @@
-package claude.teste;
+package compilador.teste;
 
 public class Token {
     // Em Java, costumamos usar 'final' se o valor não for mudar depois de criado

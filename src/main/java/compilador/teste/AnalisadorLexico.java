@@ -1,4 +1,4 @@
-package claude.teste;
+package compilador.teste;
 
 public class AnalisadorLexico {
     private String source;

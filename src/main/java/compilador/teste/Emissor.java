@@ -1,5 +1,5 @@
 // Arquivo: src/main/java/claude/teste/Emissor.java
-package claude.teste;
+package compilador.teste;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,5 +1,5 @@
 // Arquivo: src/main/java/claude/teste/main_java.java
-package claude.teste;
+package compilador.teste;
 
 import java.io.IOException;
 import java.nio.file.Files;
