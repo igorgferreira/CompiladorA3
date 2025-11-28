@@ -143,7 +143,7 @@ public class AnalisadorSintatico {
             // Se a variável não existe, declara no cabeçalho como double
             if (!this.symbols.contains(varName)) {
                 this.symbols.add(varName);
-                this.emissor.headerLine("        double " + varName + ";");
+                this.emissor.headerLine("        int " + varName + ";");
             }
 
             this.match(TipoToken.IDENT);

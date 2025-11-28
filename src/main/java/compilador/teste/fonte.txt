@@ -1,7 +1,8 @@
+PRINT "Teste"
 PRINT "Quantos números sa série de Fibonacci você quer?"
 INPUT num
 LET a = 0
-LET b = 1.0
+LET b = 1
 WHILE num >= 0 REPEAT
 PRINT a
 LET c = a + b
