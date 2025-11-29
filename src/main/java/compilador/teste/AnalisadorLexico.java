@@ -7,10 +7,10 @@ public class AnalisadorLexico {
 
     // Método Construtor
     public AnalisadorLexico(String source) {
-        this.source = source + '\n'; // Adicione uma nova linha para simplificar a análise léxica do último instrução/token
+        this.source = source + '\n';
         this.curChar = '\0';
         this.curPos = -1;
-        this.proximoCaractere(); // Verifica o próximo caractere
+        this.proximoCaractere();
     }
 
     // Processa o próximo caractere
